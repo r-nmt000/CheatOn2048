@@ -1,0 +1,8 @@
+{
+  "appName":{
+    "message": "CheatOn2048"
+  },
+  "appDesc": {
+    "message": "Enable to save and load progress of '2048'"
+  }
+}

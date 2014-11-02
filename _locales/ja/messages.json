@@ -1,0 +1,10 @@
+{
+  "appName":{
+    "message": "CheatOn2048",
+    "description": "アプリケーション名"
+  },
+  "appDesc": {
+    "message": "webアプリケーション'2048'でゲームの進行状況の保存、再開ができます。",
+    "description": "アプリケーションの説明"
+  }
+}
